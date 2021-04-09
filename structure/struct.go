@@ -3,5 +3,5 @@ package structure
 
 // Structure is an example of type
 type Structure struct {
-	value int
+	values []int
 }
